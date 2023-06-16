@@ -1,2 +1,2 @@
-# DOOM64-EX-Plus-Launcher
-A Launcher for the EX+ source port that rocks
+# DOOM64-EX+-Launcher
+A Launcher for DOOM64 EX+ that is actually good
