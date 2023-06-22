@@ -199,6 +199,7 @@ namespace GameLauncher
             closeButton.TabIndex=0;
             closeButton.Text="Close";
             closeButton.UseVisualStyleBackColor=true;
+            closeButton.Click+=CloseButtonListener.closeButton_Click;
             // 
             // executeButton
             // 
